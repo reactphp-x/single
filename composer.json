@@ -1,0 +1,16 @@
+{
+    "name": "reactphp-framework/single",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Reactphp\\Framework\\Single\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wpjscc",
+            "email": "wpjscc@gmail.com"
+        }
+    ],
+    "require": {}
+}
