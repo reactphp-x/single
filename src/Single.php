@@ -1,6 +1,6 @@
 <?php
 
-namespace Reactphp\Framework\Single;
+namespace ReactphpX\Single;
 
 
 trait Single

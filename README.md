@@ -13,7 +13,7 @@ composer require reactphp-framwork/single -vvv
 
 class ProcessManager 
 {
-    use \Reactphp\Framework\Single\Single;
+    use \ReactphpX\Single\Single;
 }
 
 ProcessManager::instance()->foo();

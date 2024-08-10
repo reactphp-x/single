@@ -1,9 +1,9 @@
 {
-    "name": "reactphp-framework/single",
+    "name": "reactphp-x/single",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Reactphp\\Framework\\Single\\": "src/"
+            "ReactphpX\\Single\\": "src/"
         }
     },
     "authors": [
